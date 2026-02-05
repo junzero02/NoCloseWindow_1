@@ -1,0 +1,23 @@
+# 빌드 결과물
+bin/
+obj/
+publish/
+
+# Visual Studio / .NET 관련
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 로그 / 임시 파일
+*.log
+*.swp
+*~
+*.tmp
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+desktop.ini
